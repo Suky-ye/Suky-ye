@@ -8,6 +8,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Hi👋%20%20I%20am%20Suky&textBg=false&fontAlignY=38&animation=scaleIn&rotate=0&reversal=false" />
 </p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=900&size=24&duration=4999&pause=1000&color=E54FF7&center=true&width=600&lines=Welcome+to+my+GitHub+profile+page!)](https://git.io/typing-svg)
 
 <!--

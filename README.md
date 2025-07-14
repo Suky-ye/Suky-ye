@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hi👋I am Suky!}&fontSize=90&fontAlign=50&fontAlignY=30&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Hi👋%20%20I%20am%20Suky&textBg=false&fontAlignY=38&animation=scaleIn&rotate=0&reversal=false" />
 </p>
 
 <!--

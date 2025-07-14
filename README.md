@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Hi👋%20%20I%20am%20Suky&textBg=false&fontAlignY=38&animation=scaleIn&rotate=0&reversal=false" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=900&size=24&duration=4999&pause=1000&color=E54FF7&center=true&width=1100&lines=Welcome+to+my+GitHub+profile+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=900&size=24&duration=4999&pause=1000&color=E54FF7&center=true&width=1000&lines=Welcome+to+my+GitHub+profile+page!)](https://git.io/typing-svg)
 
 <!--
 **Suky-ye/Suky-ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
